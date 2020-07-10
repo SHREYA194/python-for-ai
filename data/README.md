@@ -1,6 +1,7 @@
 # Python for Artificial Intelligence
 
 This repository contains all the [Jupyter Notebook](notebooks/) for the "Python for Artificial Intelligence" course by Agni Data.
+This directory is to store all the data files
 
 You can find the full course on [Udemy](insert-udemy-link-here)
 
